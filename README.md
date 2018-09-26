@@ -1,4 +1,4 @@
 # fuzzy-meme
 
-![https://guides.github.com/features/mastering-markdown/]
+[![Build Status](https://travis-ci.org/tempo-acc/fuzzy-meme.svg?branch=master)](https://travis-ci.org/tempo-acc/fuzzy-meme)
 Another try to makes it work
